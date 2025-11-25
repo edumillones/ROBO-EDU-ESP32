@@ -1,0 +1,15 @@
+# Ignorar archivos temporales de Arduino
+*.tmp
+*.hex
+*.elf
+
+# Ignorar basura de Autodesk Inventor
+**/OldVersions/
+*.lck
+*.bak
+*.log
+lockfile.lck
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
